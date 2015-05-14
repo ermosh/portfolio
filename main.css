@@ -1,0 +1,90 @@
+body {
+	font-family: 'Lato', sans-serif;
+	color: #424242;
+	background-color: ;
+}
+
+.josefin {
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.jumbotron {
+	background-color: #FBF7E4;
+	margin-bottom: 0;
+}
+
+#web-portfolio, #pm-clients {
+	margin: 50px 0;
+}
+
+.nav {
+	margin-top: 50px;
+}
+
+	.nav li a {
+		color: #424242;
+		font-size: 1.5em;
+	}
+
+#about {
+	font-size: 1.25em;
+}
+
+.thumbnail .logo {
+	width: 100px;
+	height: 100%;
+	text-align: center;
+}
+
+h2 {
+	margin: 40px 0;
+	text-align: center;
+	color: #8E001C;
+}
+
+h3 {
+	color: #8E001C;
+}
+
+#portrait:hover {
+	
+}
+
+#email {
+	text-align: center;
+}
+
+#social {
+	width: 225px;
+	margin: 0 auto;
+}
+
+#social li {
+	list-style-type: none;
+	display: inline-block;
+	padding: 1em;
+}
+
+.fa-twitter {
+	color: ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
